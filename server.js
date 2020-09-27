@@ -13,12 +13,16 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-  useCreateIndex: true,
-  useFindAndModify: false,
-});
+mongoose.connect(
+  process.env.MONGODB_URI ||
+    "mongodb+srv://collin-hodgson:M[>#6eXZ*qx_,#@cluster0.xrzu2.mongodb.net/workout?retryWrites=true&w=majority",
+  {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    useCreateIndex: true,
+    useFindAndModify: false,
+  }
+);
 // mongoose.connect("mongodb://localhost/workout", {
 //   useNewUrlParser: true,
 //   useFindAndModify: false,
