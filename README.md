@@ -12,6 +12,12 @@ A consumer will reach their fitness goals more quickly when they track their wor
 
 ## Deployed Link/Screenshots
 
+<img width="949" alt="fitness1" src="https://user-images.githubusercontent.com/64516562/94640613-6f46d980-029c-11eb-9c3c-e2ed8b07f50f.PNG">
+
+<img width="883" alt="fitness2" src="https://user-images.githubusercontent.com/64516562/94640634-7b329b80-029c-11eb-85d4-95dd45b4e3f8.PNG">
+
+<img width="782" alt="fitness3" src="https://user-images.githubusercontent.com/64516562/94640654-84236d00-029c-11eb-8e4f-e65f2c9b4ac1.PNG">
+
 https://calm-anchorage-75848.herokuapp.com/
 
 ## Acceptance Criteria
