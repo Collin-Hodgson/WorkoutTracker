@@ -20,6 +20,8 @@ A consumer will reach their fitness goals more quickly when they track their wor
 
 https://calm-anchorage-75848.herokuapp.com/
 
+---
+
 ## Acceptance Criteria
 
 When the user loads the page, they should be given the option to create a new workout or continue with their last workout.
